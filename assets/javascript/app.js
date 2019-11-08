@@ -13,10 +13,11 @@ var _app = function () {
     this.shouldIgnoreVideo = false;
     this.effects = ["bounce", "flash", "pulse", "rubberBand", "shake", "swing", "tada", "wobble", "jello"];
     this.brandDescription = [
-        "Pro csgo and Fortnite player", 
+        "Pro Fortnite player", 
         "Python Programmer", 
         "WeMade clan member ", 
-        "follow instagram", 
+        "Fortnite name:WeMade Axel", 
+        "Steam:Axel",
         
     ];
 
