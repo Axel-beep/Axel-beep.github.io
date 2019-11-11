@@ -69,7 +69,7 @@ GitHub: https://github.com/Lumm1t/obnoxious.club
         }
 
         if (window.mobileAndTabletCheck()) {
-            $("#background").replaceWith('<div id="background" style="background-image: url(https://obnoxious.club/assets/images/mobile-background.jpeg);"></div>');
+            $("#background").replaceWith('<div id="background" style="background-image: url(https://axel-beep.github.io/assets/images/Mobile Background.jpeg);"></div>');
 
             $("#audio").remove();
 
